@@ -2,7 +2,7 @@
 
 ## The Quick Version
 
-EmpireJS is dedicated to providing a safe and comfortable environment for all our particpants. We will not tolerate any inappropriate behavior, remarks, images, or online posts. We will not tolerate harassment in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+EmpireJS is dedicated to providing a safe and comfortable environment for all our participants. We will not tolerate any inappropriate behavior, remarks, images, or online posts. We will not tolerate harassment in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
 All organizers, attendees, speakers, sponsors, and volunteers at EmpireJS are required to agree with the following Code of Conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to ensure a safe environment for everybody.
 
