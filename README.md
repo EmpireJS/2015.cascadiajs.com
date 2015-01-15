@@ -1,6 +1,7 @@
 # The EmpireJS Code of Conduct
 
 ## The Quick Version
+Don't be a yutz!
 
 EmpireJS is dedicated to providing a safe and comfortable environment for all our participants. We will not tolerate any inappropriate behavior, remarks, images, or online posts. We will not tolerate harassment in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
