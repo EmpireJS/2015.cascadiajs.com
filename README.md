@@ -22,7 +22,7 @@ Any participant asked to stop any harassing behavior is expected to comply immed
 
 ## Reporting
 
-If you feel uncomfortable, are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified by their STAFF t-shirts. You can also send a text message to (267) 606-0603 or email to [us@empirejs.org](mailto:us@empirejs.org). If you can’t find a staff member, [EmpireJS on twitter](http://twitter.com/empirejs) is always there for you. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference.
+If you feel uncomfortable, are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified by their STAFF t-shirts. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference.
 
 ## Enforcement
 
