@@ -21,7 +21,7 @@ White male, wearing badge #12345
 
 ### The behavior that was in violation
 
-Made offensive comments about women including saying that women are always late, and that they would now know anything about comics
+Made offensive comments about women including saying that women are always late, and that they would not know anything about comics
 
 ### The approximate time of the behavior (if different than the time the report was made)
 
