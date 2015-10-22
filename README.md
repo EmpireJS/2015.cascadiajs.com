@@ -36,10 +36,10 @@ Text: (267) 606-0603<br />
 Email: [us@empirenode.org](mailto:us@empirenode.org)<br />
 In person: Any organizer, identified by EmpireNode t-shirt and Organizer Badge
 
-You can also contact one of us directly: 
-Ashley Williams [@ag_dubs](http://twitter.com/ag_dubs) [ashley666ashley@gmail.com](mailto:ashley666ashley@gmail.com)
-Kirill Cherkashin [@kirjs](http://twitter.com/kirjs) [kirill@kcherkashin.org](mailto:kirill@kcherkashin.org)
-Matt Walters [@mateodelnorte](http://twitter.com/mateodelnorte), [matt@empirenode.org](mailto:matt@empirenode.org).
+You can also contact one of us directly: <br />
+Ashley Williams [@ag_dubs](http://twitter.com/ag_dubs) [ashley666ashley@gmail.com](mailto:ashley666ashley@gmail.com) <br />
+Kirill Cherkashin [@kirjs](http://twitter.com/kirjs) [kirill@kcherkashin.org](mailto:kirill@kcherkashin.org) <br />
+Matt Walters [@mateodelnorte](http://twitter.com/mateodelnorte), [matt@empirenode.org](mailto:matt@empirenode.org)
 
 
 
