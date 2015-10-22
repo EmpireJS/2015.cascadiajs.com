@@ -33,7 +33,13 @@ If a participant engages in harassing behavior, the conference organizers may ta
 If you have any questions, comments, concerns, or to report anything that makes you feel uncomfortable or unsafe, you can use these channels:
 
 Text: (267) 606-0603<br />
-Email: [us@empirejs.org](mailto:us@empirejs.org)<br />
-In person: Any organizer, identified by STAFF t-shirt
+Email: [us@empirenode.org](mailto:us@empirenode.org)<br />
+In person: Any organizer, identified by EmpireNode t-shirt and Organizer Badge
 
-You can also contact Matt Walters directly ([@mateodelnorte](http://twitter.com/mateodelnorte), [matt@empirenode.org](mailto:matt@empirenode.org)).
+You can also contact one of us directly: <br />
+Ashley Williams: [@ag_dubs](http://twitter.com/ag_dubs), [ashley666ashley@gmail.com](mailto:ashley666ashley@gmail.com) <br />
+Kirill Cherkashin: [@kirjs](http://twitter.com/kirjs), [kirill@kcherkashin.org](mailto:kirill@kcherkashin.org) <br />
+Matt Walters: [@mateodelnorte](http://twitter.com/mateodelnorte), [matt@empirenode.org](mailto:matt@empirenode.org)
+
+
+
