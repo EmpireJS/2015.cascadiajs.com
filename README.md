@@ -4,7 +4,7 @@
 
 EmpireJS is dedicated to providing a safe and comfortable environment for all our participants. We will not tolerate any inappropriate behavior, remarks, images, or online posts. We will not tolerate harassment in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
-All organizers, attendees, speakers, sponsors, and volunteers at EmpireJS are required to agree with the following Code of Conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to ensure a safe environment for everybody.
+All organizers, attendees, speakers, sponsors, and volunteers at EmpireJS are required to agree with the following Code of Conduct. Organizers will enforce this code throughout any activity and in all communications involving EmpireJS. We expect cooperation from all participants to ensure a safe environment for everybody.
 
 ## The Less Quick Version
 
@@ -22,7 +22,7 @@ Any participant asked to stop any harassing behavior is expected to comply immed
 
 ## Reporting
 
-If you feel uncomfortable, are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified by their STAFF t-shirts. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference.
+If you feel uncomfortable, are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately either in-person or via the information below. Conference staff can be identified by their STAFF t-shirts. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe.
 
 ## Enforcement
 
@@ -33,13 +33,13 @@ If a participant engages in harassing behavior, the conference organizers may ta
 If you have any questions, comments, concerns, or to report anything that makes you feel uncomfortable or unsafe, you can use these channels:
 
 Text: (267) 606-0603<br />
-Email: [us@empirenode.org](mailto:us@empirenode.org)<br />
+Email: [us@empirejs.org](mailto:us@empirenode.org)<br />
 In person: Any organizer, identified by EmpireNode t-shirt and Organizer Badge
 
 You can also contact one of us directly: <br />
-Ashley Williams: [@ag_dubs](http://twitter.com/ag_dubs), [ashley666ashley@gmail.com](mailto:ashley666ashley@gmail.com) <br />
-Kirill Cherkashin: [@kirjs](http://twitter.com/kirjs), [kirill@kcherkashin.org](mailto:kirill@kcherkashin.org) <br />
-Matt Walters: [@mateodelnorte](http://twitter.com/mateodelnorte), [matt@empirenode.org](mailto:matt@empirenode.org)
+Tracy Hinds: [@hackygolucky](http://twitter.com/hackygolucky), [tracyhinds@gmail.com](mailto:tracyhinds@gmail.com) <br />
+Charlie Robbins: [@indexzero](http://twitter.com/indexzero), [charlie.robbins@gmail.com](mailto:charlie.robbins@gmail.com) <br />
+
 
 
 
